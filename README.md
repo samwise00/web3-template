@@ -1,4 +1,4 @@
-Web3 Website Template / Starter Kit
+Web3 Website Template / Starter Kit based on my portfolio site.
 
 `npm install`
 
@@ -6,10 +6,10 @@ Web3 Website Template / Starter Kit
 
 Includes:
 
--Dark/Light Color theme using TailwindCss
--Wagmi + Rainbowkit with Wallet Button already integrated
--Page structure starting out with Nav Bar + Body + Footer
--Upload to Pinata utility
--Framer motion presets utility
+Dark/Light Color theme using TailwindCss
+Wagmi + Rainbowkit with Wallet Button already integrated
+Page structure starting out with Nav Bar + Body + Footer
+Upload to Pinata utility
+Framer motion presets utility
 
 Hope it helps someone!
